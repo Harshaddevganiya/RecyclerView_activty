@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">RecyclerView_activty</string>
+    <string name="app_name">RecyclerView_activity</string>
+    <string name="contact_number">Contact number</string>
+    <string name="contact">Contact</string>
 </resources>
