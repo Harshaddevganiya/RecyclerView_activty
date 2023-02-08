@@ -5,6 +5,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.widget.Button;
 
 import java.util.ArrayList;
 
@@ -17,6 +18,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
       RecyclerView recyclerView=findViewById(R.id.recyclerview);
+
+
+
 
       recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
